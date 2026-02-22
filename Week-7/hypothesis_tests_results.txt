@@ -1,0 +1,21 @@
+
+STATISTICAL BUSINESS ANALYSIS REPORT
+
+Descriptive Statistics:
+Mean Sales: 123650.48
+Median Sales: 97955.50
+Std Dev Sales: 100161.09
+
+Correlation (Quantity vs Sales): 0.69
+Correlation (Price vs Sales): 0.65
+
+Hypothesis Tests:
+East vs West Sales p-value: 0.0455
+High Price vs Low Price Sales p-value: 0.0000
+High Quantity vs Low Quantity Sales p-value: 0.0000
+
+95% Confidence Interval for Mean Sales:
+Lower: 103776.35
+Upper: 143524.61
+
+Regression R-squared: 0.884
