@@ -1,0 +1,6 @@
+
+Week 4 - Data Visualization Summary Report
+-----------------------------------------
+Highest Temperature Month : May
+Lowest Temperature Month  : Dec
+Average Temperature       : 26.42 °C
